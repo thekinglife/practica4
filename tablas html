@@ -1,0 +1,78 @@
+<!DOCTYPE html> 
+
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Práctica 4</title>
+
+        <link rel="stylesheet" type="text/css" href="estilos.css" />
+
+    </head>
+<center>
+    <body >
+          <body background="fondo.jpg">
+
+            <table border="1" bgcolor= "#b1b1b1" border="1" cellpadding="1">
+        
+               <tr>
+                    <td> Los 7 Lenguajes De Programacion Mejor Pagados Del Mundo </td>
+                    <td>
+
+                        <ul>
+                            <li style="color:black;"> C </li>
+                            <li style="color:black;"> JavaScript </li>
+                            <li style="color:black;"> C++ </li>
+                            <li style="color:black;"> Java </li>
+                            <li style="color:black;"> Phyton </li>
+                            <li style="color:black;"> Objetive C </li>
+                            <li style="color:black;"> Ruby on Rayls </li>
+
+                    </td>
+                    <td> <img src="imagen1.jpg" width="400"  height="200" alt="Alt Text"> </td>
+                    
+               </tr>
+        
+                <tr>
+                    <td> Lenguajes De Programacion Web </td>
+                    <td> 
+                        <ol start="1">            
+                            <i> 
+                             <li style="color:black;"> HTML </li>
+                             <li style="color:black;"> JavaScript </li>
+                             <li style="color:black;"> PHP </li>
+                             <li style="color:black;"> ASP </li>
+                             <li style="color:black;"> JSP </li>
+                             <li style="color:black;"> Ruby </li>
+                             <li style="color:black;"> CSS </li>
+                            </i>
+                       </ol>
+                    </td>
+                    <td> <img src="imagen2.jpg" width="400"  height="200" alt="Alt Text"> </td>
+               </tr>
+        
+                <tr>
+                   <td> Acronimos Interesantes </td>
+                   <td>
+                    <p style="color:black;"> HTML </p> 
+                    <ul> 
+                        <P style="color:black;"> Hyper Text Markup Languaje </P>
+                    </ul>
+                    <p style="color:black;"> W3C </p> 
+                    <ul>
+                       <P style="color:black;"> World Wide Web Consortium </P>
+                    </ul>
+                    <p style="color:black;"> PHP </p> 
+                    <ul>
+                       <P style="color:black;"> PHP Hypertext Pre-procesor </P>
+                    </ul>
+                    <p style="color:black;"> CSS </p> 
+                    <ul>
+                       <P style="color:black;"> Cascading Style Sheets </P>
+                   </td>
+                   <td> <img src="imagen3.jpg" width="400"  height="200" alt="Alt Text"> </td>
+
+               </tr>
+           </table>
+</center>
+    </body>
+</html>
